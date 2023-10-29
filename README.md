@@ -41,7 +41,7 @@ By clicking the menu button on the top right, you can see the person's informati
 <img width="1392" alt="info" src="https://github.com/ktsu2i/messenger-clone/assets/101069375/f607f300-9d16-463c-aa4c-c8c8a1558af2">
 
 ### People
-This is where you can see all the people, like a contact page. You can start a conversation by clicking a person.
+This is where you can see all of the people who **signed up** for the app. You can start a conversation by clicking a person.
 <img width="1392" alt="people" src="https://github.com/ktsu2i/messenger-clone/assets/101069375/9eea2a14-022b-45dc-ad7d-bea589a08074">
 By clicking your icon on the bottom left, you can change your name and icon image.
 <img width="1392" alt="settings" src="https://github.com/ktsu2i/messenger-clone/assets/101069375/a4909224-9a7b-4bdc-9f82-85bb0d353aad">
