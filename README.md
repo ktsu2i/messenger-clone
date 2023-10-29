@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Messenger Clone
 
-## Getting Started
+## Purpose of This Project
+- I wanted to have more practical experience in creating web applications with Next.js and started learning it with [the Messenger Clone tutorial video](https://www.youtube.com/watch?v=PGPGcKBpAk8) on YouTube. Thank you for the awesome tutorial, [Antonio](https://www.youtube.com/@codewithantonio)!
+- Nowadays, a lot of applications have real-time technologies such as DMs. I believe that it is essential to know how to implement the real-time systems in web applications.
 
-First, run the development server:
+## How to Use 
+### To visit the application, [click here](https://messenger-clone-ktsu2i.vercel.app/).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Although you can create your own account, you can also login with the existing accounts.
+- Kaito Tsutsui
+  - Email: kaito@kaito.com
+  - Password: kaito
+- Alex
+  - Email: alex@alex.com
+  - Password: alex
+- Dr. Bernard
+  - Email: bernard@bernard.com
+  - Password: bernard
+- Sarah
+ - Email: sarah@sarah.com
+ - Password: sarah
+- Walter
+  - Email: walter@walter.com
+  - Password: walter
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Preview
+### Sign-in Page
+(https://github.com/ktsu2i/messenger-clone/assets/101069375/5b3334b5-c769-4381-ba4b-c0ad98cc3e7a)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Sign-up Page
+(https://github.com/ktsu2i/messenger-clone/assets/101069375/9fe7fc86-69b6-470c-ac86-d3ba2c61d3b4)
