@@ -18,15 +18,15 @@ Although you can create your own account, you can also login with the existing a
   - Email: bernard@bernard.com
   - Password: bernard
 - Sarah
- - Email: sarah@sarah.com
- - Password: sarah
+  - Email: sarah@sarah.com
+  - Password: sarah
 - Walter
   - Email: walter@walter.com
   - Password: walter
 
 ## Preview
 ### Sign-in Page
-(https://github.com/ktsu2i/messenger-clone/assets/101069375/5b3334b5-c769-4381-ba4b-c0ad98cc3e7a)
+<img width="2672" alt="Screenshot 2023-10-29 at 3 30 09 PM" src="https://github.com/ktsu2i/messenger-clone/assets/101069375/af1634ab-a11d-489f-a49b-3b15be0c6618">
 
 ### Sign-up Page
 (https://github.com/ktsu2i/messenger-clone/assets/101069375/9fe7fc86-69b6-470c-ac86-d3ba2c61d3b4)
