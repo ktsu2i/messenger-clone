@@ -3,8 +3,11 @@
 ## To visit the application, [click here](https://messenger-clone-ktsu2i.vercel.app/).
 
 ## Purpose of This Project
-- I wanted to have more practical experience in creating web applications with Next.js and started learning it with [the Messenger Clone tutorial video](https://www.youtube.com/watch?v=PGPGcKBpAk8) on YouTube. Thank you for the awesome tutorial, [Antonio](https://www.youtube.com/@codewithantonio)!
-- Nowadays, a lot of applications have real-time technologies such as DMs. I believe that it is essential to know how to implement the real-time systems in web applications.
+- To have more practical experience in creating web applications with Next.js
+- To understand how to implement real-time technologies
+
+I gained a good understanding of creating web apps through [the Messenger Clone tutorial video](https://www.youtube.com/watch?v=PGPGcKBpAk8). 
+Thank you for the awesome tutorial, [Antonio](https://www.youtube.com/@codewithantonio)!
 
 ## Functionalities:
 - Sign-in, login, logout
