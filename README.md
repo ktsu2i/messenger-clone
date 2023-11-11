@@ -6,10 +6,10 @@
 - To have more practical experience in creating web applications with Next.js
 - To understand how to implement real-time technologies
 
-I gained a good understanding of creating web apps through [the Messenger Clone tutorial video](https://www.youtube.com/watch?v=PGPGcKBpAk8). 
+I gained a good understanding of a creating web app with the real-time technology through [the Messenger Clone tutorial video](https://www.youtube.com/watch?v=PGPGcKBpAk8). 
 Thank you for the awesome tutorial, [Antonio](https://www.youtube.com/@codewithantonio)!
 
-## Functionalities:
+## Functionalities
 - Sign-in, login, logout
 - Send texts, images, and files to a person
 - Create a group chat and name the group
