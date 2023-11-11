@@ -10,10 +10,10 @@ I gained a good understanding of a creating web app with the real-time technolog
 Thank you for the awesome tutorial, Antonio!
 
 ## Functionalities
-- Sign-in, login, logout
-- Send texts, images, and files to a person
+- Sign-up, login, logout
+- Send texts, images, and files to people
 - Create a group chat and name the group
-- Delete all the conversations
+- Delete conversations
 - Change your name and icon (avatar)
 - Active status
 
@@ -24,6 +24,7 @@ Thank you for the awesome tutorial, Antonio!
 - ORM (Prisma)
 - MongoDB
 - Pusher
+- Deployed on Vercel
 
 ## How to Use 
 Although you can create your own account, you can also login with the existing accounts.
