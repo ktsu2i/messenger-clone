@@ -7,7 +7,7 @@
 - To understand how to implement real-time technologies
 
 I gained a good understanding of a creating web app with the real-time technology through [the Messenger Clone tutorial video](https://www.youtube.com/watch?v=PGPGcKBpAk8). 
-Thank you for the awesome tutorial, [Antonio](https://www.youtube.com/@codewithantonio)!
+Thank you for the awesome tutorial, Antonio!
 
 ## Functionalities
 - Sign-in, login, logout
